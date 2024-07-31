@@ -12,7 +12,10 @@ Deprecated sfdx Command Removal
 - [Removal Announcement](https://github.com/forcedotcom/cli/issues/2974)
 
 ## Scratch Org Snapshots
-Learn about Scratch Org Snapshots
-- [TB Community announcement](https://trailhead.salesforce.com/trailblazer-community/feed/0D54V00007eqEaoSAE)
-- [Summer '24 release notes](https://help.salesforce.com/s/articleView?id=release-notes.rn_dev_environments_snapshots_ga.htm&release=250&type=5)
-- [Developer Guide](https://help.salesforce.com/s/articleView?id=release-notes.rn_dev_environments_snapshots_ga.htm&release=250&type=5)
+Trailblazer Community Groups
+- [Salesforce DX](https://trailhead.salesforce.com/trailblazer-community/groups/0F93A000000HTp1SAG?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)
+- [Scratch Org Snapshots](https://trailhead.salesforce.com/trailblazer-community/groups/0F93A00000020d5SAA?tab=discussion&sort=LAST_MODIFIED_DATE_DESC)
+Developer Guide
+- [Scratch Orgs](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_scratch_orgs.htm)
+- [Scratch Org Shape](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_shape_intro.htm)
+- [Scratch Org Snapshots](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_snapshots_intro.htm)

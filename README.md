@@ -1,5 +1,5 @@
-# August 2024 Ask Me Anything – Salesforce CLI and Scratch Org Snapshots
-This companion repository for the [August 2024 Ask Me Anything livestream](https://www.youtube.com/watch?v=AtcWlJbl_go) contains helpful links and resources for developers interested in updates to the Salesforce CLI and Scratch Org Snapshots feature.
+# July 2024 Ask Me Anything – Salesforce CLI and Scratch Org Snapshots
+This companion repository for the [July 2024 Ask Me Anything livestream](https://www.youtube.com/watch?v=AtcWlJbl_go) contains helpful links and resources for developers interested in updates to the Salesforce CLI and Scratch Org Snapshots feature.
 
 ## Salesforce CLI
 Engage With The CLI Team
